@@ -36,3 +36,9 @@ bash setAnchorPeerUpdate.sh
 bash deploy.sh
 ```
 
+# 어플리케이션 구동
+```
+npm install
+node server.js
+```
+
